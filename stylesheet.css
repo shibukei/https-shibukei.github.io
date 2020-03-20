@@ -17,14 +17,6 @@ a {
   margin: 0 auto;
 }
 
-.shibukei {
-  width: 100%;
-  padding: 0 15px;
-  margin: 0 auto;
-  color: #b3aeb5;
-  font-size: 75px;
-}
-
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
@@ -192,6 +184,11 @@ footer img {
 footer p {
   color: #b3aeb5;
   font-size: 12px;
+}
+
+.shibukei {
+  color: #b3aeb5;
+  font-size: 75px;
 }
 
 footer {
